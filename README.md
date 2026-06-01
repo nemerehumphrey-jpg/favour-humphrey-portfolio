@@ -84,7 +84,7 @@ I'm currently building my UI/UX design portfolio while actively seeking remote o
 - 📧 Email: [nemerehumphrey@gmail.com](mailto:nemerehumphrey@gmail.com)
 - 💼 LinkedIn: [linkedin.com/in/favour-humphrey-2384ab273](https://www.linkedin.com/in/favour-humphrey-2384ab273)
 - 📱 Phone: +234 704 092 1291
-- 🌐 Portfolio: *(add your GitHub Pages link here once live)*
+- 🌐 Portfolio: https://favour-humphrey-portfolio.netlify.app
 
 ---
 
