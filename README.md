@@ -28,7 +28,7 @@ I'm currently building my UI/UX design portfolio while actively seeking remote o
 | Certificate | Issuer | Date | Verify |
 |-------------|--------|------|--------|
 | Foundations of User Experience (UX) Design | Google / Coursera | Apr 28, 2026 | [View Certificate](https://coursera.org/verify/Q0CEFO6QY0HE) |
-| Google UX Design Certificate *(in progress)* | Google / Coursera |Jun 10, 2026 |. [View Certificate] (https://coursera.org/verify/FCN2S6ICIRNB).|
+| Start the UX Design Process: Empathize, Define, and Ideate | Google / Coursera |Jun 10, 2026 |. [View Certificate] (https://coursera.org/verify/FCN2S6ICIRNB)|
 
 ---
 
