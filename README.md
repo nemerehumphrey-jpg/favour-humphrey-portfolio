@@ -69,7 +69,7 @@ I'm currently building my UI/UX design portfolio while actively seeking remote o
 
 ## 💼 Featured Projects
 
-### Moodly — Mood Tracking App
+### Moodly : Mood Tracking App
 > A mobile app designed in Figma to help users track and understand their emotional patterns.
 
 - **Type:** Mobile App UI/UX Design
@@ -80,7 +80,7 @@ I'm currently building my UI/UX design portfolio while actively seeking remote o
 
 ---
 
-### ClientDesk — Customer Support Dashboard
+### ClientDesk : Customer Support Dashboard
 > A 5-screen web application designed for customer service representatives to manage support tickets efficiently in one dashboard.
 
 - **Type:** Web App UI/UX Design
